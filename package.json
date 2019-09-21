@@ -1,7 +1,7 @@
 {
 	"name": "inline-log",
 	"displayName": "inline-log",
-	"publisher": "code8",
+	"publisher": "vsc",
 	"description": "Enables inline console.log's in emmet-like style",
 	"repository": {
 		"url": "git@github.com:the-code8-company/vsc-inline-log.git"
